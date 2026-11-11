@@ -23,14 +23,16 @@ If you like this work, please consider citing the corresponding article, [availa
 
 
 ```bibtex
-@article{chenaud2026how,
+@article{chenaud2026howtolearnphysics,
   title = {How to Learn Physics: A Practical Review of Scientific Machine Learning},
   ISSN = {1886-1784},
   url = {http://dx.doi.org/10.1007/s11831-026-10735-z},
   DOI = {10.1007/s11831-026-10735-z},
   journal = {Archives of Computational Methods in Engineering},
   publisher = {Springer Science and Business Media LLC},
-  author = {Chenaud,  Marien and Alves,  José and Magoulès,  Frédéric},
+  author = {Chenaud, Marien and Alves, José and Magoulès, Frédéric},
+  volume = {33},
+  pages = {13653–13681},
   year = {2026},
   month = July 
 }
